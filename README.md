@@ -1,5 +1,5 @@
 DS_Skillfactory
-#Homework #1 for DS_course.
+#Homework #2 for DS_course.
 
 Какой кейс мы решаем:
 Нужно написать программу, которая угадывает число за минимальное число попыток.
